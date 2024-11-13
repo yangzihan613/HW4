@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\yangz\OneDrive\Desktop\!HW4\P14\source\main.c(18,5): warning C4013: 'prrintArray' 未定義; 假設 extern 傳回整數
+C:\Users\yangz\OneDrive\Desktop\!HW4\P14\source\main.c(70,16): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+      C:\Users\yangz\OneDrive\Desktop\!HW4\P14\source\main.c(70,16):
+      預留位置及其參數需要 1 個 variadic 引數，但卻提供了 0 個
+      C:\Users\yangz\OneDrive\Desktop\!HW4\P14\source\main.c(70,16):
+      缺少 variadic 引數 1 (其為格式字串 '%-5d' 所需)
+  
+C:\Users\yangz\OneDrive\Desktop\!HW4\P14\source\main.c(67,12): warning C4101: 'j': 未參考的區域變數
+main.obj : error LNK2019: 在函式 prrintArraymain 中參考了無法解析的外部符號
+C:\Users\yangz\OneDrive\Desktop\!HW4\P14\x64\Debug\P14.exe : fatal error LNK1120: 1 個無法解析的外部符號
